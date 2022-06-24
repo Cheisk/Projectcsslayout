@@ -1,0 +1,138 @@
+
+#logo {
+    width : 226px;
+    height : 78px;
+   
+}
+
+header {
+    display: flex; 
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    
+
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    
+ 
+  
+} 
+
+
+nav ul  {
+    margin: 0 auto;
+    display: flex ;
+    list-style: none;
+
+}  
+nav ul li {
+    margin-left:  20px;
+    cursor: pointer;
+
+   
+}
+nav ul li a {
+    text-decoration: none;
+    color: #cacaca;
+    
+}
+
+
+
+.about-us div img {
+    width: 40px;
+    height: 39px;
+    margin-left: 48%;
+
+}
+
+#p1 {
+    color: #39cdb9  ;
+    text-align: center;
+}
+
+#logo1 {
+    color: #00bfa5;
+}
+
+.information {
+    background-color: #d8f6f5 ;
+}
+
+.Image {
+ display: grid;
+
+
+}
+#h11 {
+    text-align: center;
+    color: #00bfa5;
+}
+#p11 {
+    text-align: center;
+}
+#h12 {
+    text-align: center;
+}
+#a1 {
+    align-content: center;
+}
+.services {
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all .2s ease 0s;
+}
+
+
+#ff1 {
+    text-align: center;
+    font-size: 10px;
+}
+
+
+.card-body {    
+    display: flex;   justify-content: space-between;    
+}
+
+#misuki{
+
+}
+
+
+#blocs1 {        
+    background-color: #00ccb1;  
+
+}
+
+#blocs2 {        
+    background-color: #3d83df;     
+
+}
+
+#blocs3 {
+    background-color: #1b2734;
+ 
+}
+
+#p22 {
+    color: white;
+}
